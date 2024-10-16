@@ -1,5 +1,5 @@
 # Male/Female Classification
-This project focus one detects gender via photos
+This project focuses on detecting genders via photos.
 
 # Google Colab
 https://colab.research.google.com/drive/17vLP-yIzcBVtneWEpyjDBb8wzL9-bTNs?usp=sharing
