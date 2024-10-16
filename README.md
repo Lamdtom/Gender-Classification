@@ -1,7 +1,7 @@
 # Male/Female Classification
 This project focus one detects gender via photos
 
-# Goole Colab
+# Google Colab
 https://colab.research.google.com/drive/17vLP-yIzcBVtneWEpyjDBb8wzL9-bTNs?usp=sharing
 
 Before running, please check that runtime set up with GPU
