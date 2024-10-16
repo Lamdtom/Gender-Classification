@@ -1,4 +1,4 @@
-# GenderDefine
+# Male/Female Classification
 This project focus one detects gender via photos
 
 # Goole Colab
