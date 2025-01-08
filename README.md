@@ -1,4 +1,4 @@
-# Male/Female Classification
+# Gender Classification
 This project focuses on detecting genders via photos.
 
 # Google Colab
